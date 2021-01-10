@@ -1,0 +1,33 @@
+/**********tag selectors******/
+body {
+  text-align:center;
+  margin:0;
+  background-color:skyblue;
+}
+table {
+  font-family: arial, sans-sersif;
+  width:50%;
+  margin:30px 230px;
+}
+img {
+  margin:10px 10px 10px 10px;
+}
+td,th {
+  border: 3px solid #dddddd;
+  text-align: left;
+  padding: 7px;
+}
+
+tr:nth-child(odd) {
+  background-color: #dddddd;
+
+
+/********class selectors*****/
+.head {
+  background-color:#E4F9F5;
+  font-size:bold;
+}
+}
+.head1 {
+  background-color:#dddddd;
+}
